@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Utkarsh Vardhan
 
 <!--
 **u6yuvi/u6yuvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
