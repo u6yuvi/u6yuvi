@@ -2,14 +2,14 @@
 
 I am currently working at [Curl Tech ](https://curl.tech/)
 
-I am currently learning
+<u>I am currently learning:</u>
 
 1. Applying Computer Vision and NLP based techniques for Document Extraction.
 2. Deploying and monitoring Machine Learning and Deep Learning Models in Production setup.
 
 
 
-My earlier work in Production Setup:
+<u>My earlier work in Production Setup:</u>
 
 1.  Tree based model for MultiClass and MutliLabel Classification of Business Documents. 
 2. Document Representation and Clustering System using Representation Learning.
@@ -28,7 +28,7 @@ My earlier work in Production Setup:
 
 
 
-Other Projects and Initiatives:
+<u>Other Projects and Initiatives:</u>
 
 1. Entirety.ai -Meetup Bengaluru (02/2019 - Present) 
    A weekly meetup targeted to educate people in Machine Learning and Deep Learning .All the contents made for this meetup can be found on the 
