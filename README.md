@@ -28,6 +28,31 @@ My earlier work in Production Setup:
 
 
 
+Other Projects and Initiatives:
+
+1. Entirety.ai -Meetup Bengaluru (02/2019 - Present) 
+   A weekly meetup targeted to educate people in Machine Learning and Deep Learning .All the contents made for this meetup can be found on the 
+
+   [Github link](https://github.com/entirety2019/Meetup2019)
+
+   [Recorded Videos](https://www.youtube.com/playlist?list=PL3COiEvJolo-mAlTugNPuh8YzBUY8Mbux)
+
+   1. Things we do:
+      1. Solving Vision Related Problems Using State of the art Deep learning models.
+      2.  Hands On Session on training Different CNN Architectures.
+      3. Solving Image Detection Problems. 
+      4. Solving Instance Segmentation Problems. 
+      5. Implementing Research papers.
+      6. Hands On Session on NLP related tool and ML techniques to solve business problem 
+
+2. Guest Speaker at AWS Summit 2019-Bengaluru 
+
+3. Guest Speaker & Poster Presentation at Pycon Conference- Chennai
+
+4. Bengaluru Event Ambassador for Deeplearning.ai Pie and AI Meetup Group. (02/2020 - Present)
+
+
+
 <!--
 **u6yuvi/u6yuvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
