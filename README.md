@@ -1,6 +1,6 @@
 ### My name is Utkarsh Vardhan
 
-I am currently working at [Curl Tech ](https://curl.tech/)
+I am currently working at [Tesla ](https://www.tesla.com/)
 
 <u>I am currently learning:</u>
 
